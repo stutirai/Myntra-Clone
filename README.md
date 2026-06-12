@@ -29,8 +29,7 @@ This project is a frontend clone of the Myntra homepage built using HTML and CSS
 * Google Material Symbols
 
 ## Live Demo
-
-🔗 Add your GitHub Pages link here
+https://stutirai.github.io/Myntra-Clone/
 
 ## Learning Outcomes
 
